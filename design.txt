@@ -26,6 +26,8 @@ Details:
 - the application should be easy to extend and adhere to SOLID design principles
 - Invoice management logic makes it easy to add and remove invoice items and clients
 - Reports for billing and ageing
+- Use Django for the backend
+- Use ReactJS for the frontend
 
 How can I use the MVC pattern to design a web application?Please explain how to perform local and remote static analysis of a NodeJS app using GH CodeQL
 
