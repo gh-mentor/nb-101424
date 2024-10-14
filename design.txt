@@ -19,7 +19,7 @@ i need a  JSON array of 10 rows of data. The data should include the following k
 How would I consume this JSON data using Python?
 
 
-I need help designing and implementing a web-based invoicing application for a service-based sole proprietorship. I am an experienced JavaScript developer and considering using Node and Express with ReactJS components.
+I need help designing and implementing a web-based invoicing application for a service-based sole proprietorship. I am an experienced Python developer and considering Django for the backend. The application should be able to store data in an easy to use data store, export data to excel (csv format), and be easy to extend. The application should adhere to SOLID design principles. The application should have invoice management logic that makes it easy to add and remove invoice items and clients. The application should have reports for billing and ageing.
 Details:
 - stores data in an easy to use data store
 - able to export data to excel (csv format)
