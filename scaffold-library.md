@@ -1,4 +1,4 @@
-Create a Python 3.14 package nmed 'CompanyLibrary' that models a company. The project should include the following classes:
+Create a Python 3.14 package 'CompanyLibrary' that models a company. The project should include the following classes:
 
 1. `Company` class:
    - Properties:
